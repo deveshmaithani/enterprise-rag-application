@@ -1,4 +1,4 @@
-# Enterprise RAG Chat Agent
+# Enterprise RAG Pipeline on AWS Bedrock
 
 A secure, internal-document-grounded chatbot built on Amazon Bedrock and
 Bedrock AgentCore, with an automated ingestion pipeline, private
